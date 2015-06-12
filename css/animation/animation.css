@@ -1,0 +1,31 @@
+@-webkit-keyframes myAnimation{
+    25%{
+        background-color: #7fff3e;
+
+    }
+    50%{
+        background-color: #4a01ff;
+        width: 800px;
+        height: 800px;
+        -webkit-transform: rotate(270deg);
+
+    }
+    75%{
+        background-color: #ff24e4;
+    }
+}
+
+/*teria que fazer moz, o, animation*/
+
+.animation {
+    width: 300px;
+    height: 200px;
+    background-color: #ff0030;
+
+    -webkit-animation: myAnimation 2s;
+    -moz-animation: myAnimation 2s;
+    -o-animation: myAnimation 2s;
+    animation: myAnimation 2s;
+
+}
+
