@@ -1,0 +1,33 @@
+.left{
+    background-color: lightpink;
+
+}
+
+.left .sub-1{
+    background-color: pink;
+}
+
+.left .sub2{
+    background-color: hotpink;
+}
+
+.right{
+    background-color: skyblue;
+}
+
+.right .sub-1{
+    background-color: #69ff2f;
+}
+
+.right .sub-2{
+    background-color: #f9ff01;
+}
+
+.right .sub-3{
+    background-color: #04ffb9;
+}
+
+.right .sub-4{
+    background-color: #fffead;
+}
+

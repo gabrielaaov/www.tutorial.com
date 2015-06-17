@@ -1,0 +1,11 @@
+div[class*='col']{
+    border:5px solid red;
+}
+
+.header, .footer{
+    min-height: 300px;
+}
+
+.left, .content, .right{
+    height: 500px;
+}
