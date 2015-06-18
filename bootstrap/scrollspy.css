@@ -1,0 +1,19 @@
+body{
+    position:relative;
+    font-size: 24px;
+    
+}
+
+#page1{
+    background-color: salmon;
+    margin-top: 50px;
+    
+}
+
+#page2{
+    background-color: #21ff0f;
+}
+
+#page3{
+    background-color: #4f43ff;
+}
