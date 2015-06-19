@@ -1,0 +1,14 @@
+{
+  "name": "myapp",
+  "version": "0.0.1",
+  "description": "my first express project",
+  "main": "router.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Raul Gil",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.12.4"
+  }
+}
