@@ -9,6 +9,7 @@
   "author": "Raul Gil",
   "license": "ISC",
   "dependencies": {
+    "body-parser": "^1.13.1",
     "express": "^4.12.4"
   }
 }
