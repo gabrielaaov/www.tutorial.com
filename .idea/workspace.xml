@@ -20,82 +20,97 @@
     <favorites_list name="tutorial" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="test.less" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/test.less">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.07109005">
-              <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="test.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/test.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <splitter split-orientation="horizontal" split-proportion="0.5">
+      <split-first>
+        <leaf>
+          <file leaf-file-name="style.less" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/less/utils/style.less">
+              <provider selected="true" editor-type-id="text-editor">
+                <state vertical-scroll-proportion="0.21327014">
+                  <caret line="12" column="1" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="theme.less" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/less/utils/theme.less">
+              <provider selected="true" editor-type-id="text-editor">
+                <state vertical-scroll-proportion="-4.375">
+                  <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="utils.less" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/less/utils/utils.less">
+              <provider selected="true" editor-type-id="text-editor">
+                <state vertical-scroll-proportion="-3.75">
+                  <caret line="6" column="1" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="normalize.css" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/less/utils/normalize.css">
+              <provider selected="true" editor-type-id="text-editor">
+                <state vertical-scroll-proportion="-83.75">
+                  <caret line="134" column="0" selection-start-line="134" selection-start-column="0" selection-end-line="134" selection-end-column="0" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-first>
+      <split-second>
+        <leaf>
+          <file leaf-file-name="style.css" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/less/utils/style.css">
+              <provider selected="true" editor-type-id="text-editor">
+                <state vertical-scroll-proportion="-6.4135942">
+                  <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-second>
+    </splitter>
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/bootstrap/carousel.html" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/bootstrap/alert.html" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/bootstrap/form-input-group.html" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/bootstrap/form-inline.html" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/bootstrap/form-horizontal.html" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/bootstrap/buttons.html" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/bootstrap/modal.html" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/bootstrap/glyphicons.html" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/bootstrap/jumbotron.html" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/bootstrap/labels.html" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/less/interpolation.less" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/bootstrap/classic.html" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/bootstrap/progress-bar.html" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/bootstrap/panel.html" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/bootstrap/image.html" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/bootstrap/navbar.html" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/bootstrap/form-vertical.html" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/bootstrap/nesting.html" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/bootstrap/dropdown.html" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/bootstrap/scrollspy.html" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/bootstrap/responsive-columns.html" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/bootstrap/tooltip.html" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/bootstrap/popover.html" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/bootstrap/structure.html" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/less/variable.less" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/bootstrap/alert.html" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/bootstrap/buttons.html" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/bootstrap/glyphicons.html" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/bootstrap/labels.html" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/bootstrap/progress-bar.html" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/bootstrap/panel.html" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/bootstrap/navbar.html" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/bootstrap/form-vertical.html" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/bootstrap/dropdown.html" root0="SKIP_INSPECTION" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/bootstrap/start.html" />
-        <option value="$PROJECT_DIR$/bootstrap/structure.html" />
-        <option value="$PROJECT_DIR$/bootstrap/structure.css" />
-        <option value="$PROJECT_DIR$/bootstrap/nesting.css" />
-        <option value="$PROJECT_DIR$/bootstrap/nesting.html" />
-        <option value="$PROJECT_DIR$/bootstrap/responsive-columns.css" />
-        <option value="$PROJECT_DIR$/bootstrap/responsive-columns.html" />
-        <option value="$PROJECT_DIR$/bootstrap/classic.css" />
-        <option value="$PROJECT_DIR$/bootstrap/classic.html" />
-        <option value="$PROJECT_DIR$/bootstrap/image.css" />
-        <option value="$PROJECT_DIR$/bootstrap/image.html" />
-        <option value="$PROJECT_DIR$/bootstrap/jumbotron.html" />
-        <option value="$PROJECT_DIR$/bootstrap/page-header.html" />
-        <option value="$PROJECT_DIR$/bootstrap/well.html" />
-        <option value="$PROJECT_DIR$/bootstrap/alert.html" />
-        <option value="$PROJECT_DIR$/bootstrap/buttons.html" />
-        <option value="$PROJECT_DIR$/bootstrap/dropdown.html" />
-        <option value="$PROJECT_DIR$/bootstrap/glyphicons.html" />
-        <option value="$PROJECT_DIR$/bootstrap/glyphicon.css" />
-        <option value="$PROJECT_DIR$/bootstrap/labels.html" />
-        <option value="$PROJECT_DIR$/bootstrap/progress-bar.html" />
-        <option value="$PROJECT_DIR$/bootstrap/panel.html" />
-        <option value="$PROJECT_DIR$/bootstrap/navbar.html" />
-        <option value="$PROJECT_DIR$/bootstrap/form-horizontal.html" />
-        <option value="$PROJECT_DIR$/bootstrap/form-inline.html" />
         <option value="$PROJECT_DIR$/bootstrap/form-vertical.html" />
         <option value="$PROJECT_DIR$/bootstrap/form-input-group.html" />
         <option value="$PROJECT_DIR$/bootstrap/carousel.css" />
@@ -122,6 +137,31 @@
         <option value="$PROJECT_DIR$/nodejs/express/rest.js" />
         <option value="$PROJECT_DIR$/nodejs/express/public/rest.js" />
         <option value="$PROJECT_DIR$/test.less" />
+        <option value="$PROJECT_DIR$/less/variable.less" />
+        <option value="$PROJECT_DIR$/less/variable.html" />
+        <option value="$PROJECT_DIR$/less/escope.html" />
+        <option value="$PROJECT_DIR$/less/escope.less" />
+        <option value="$PROJECT_DIR$/less/interpolation.html" />
+        <option value="$PROJECT_DIR$/less/interpolation.css" />
+        <option value="$PROJECT_DIR$/less/interpolation.less" />
+        <option value="$PROJECT_DIR$/less/extend.html" />
+        <option value="$PROJECT_DIR$/less/extend.less" />
+        <option value="$PROJECT_DIR$/less/mixin.html" />
+        <option value="$PROJECT_DIR$/less/mixin.less" />
+        <option value="$PROJECT_DIR$/less/mixin-nesting.less" />
+        <option value="$PROJECT_DIR$/less/mixin-nesting.html" />
+        <option value="$PROJECT_DIR$/less/mixim-param.html" />
+        <option value="$PROJECT_DIR$/less/mixim-param.less" />
+        <option value="$PROJECT_DIR$/less/mixin-overload.html" />
+        <option value="$PROJECT_DIR$/less/mixim-overload.less" />
+        <option value="$PROJECT_DIR$/less/mixin-condicional.html" />
+        <option value="$PROJECT_DIR$/less/mixin-condicional.less" />
+        <option value="$PROJECT_DIR$/less/mixin-loop.html" />
+        <option value="$PROJECT_DIR$/less/mixin-loop.less" />
+        <option value="$PROJECT_DIR$/less/normalize.css" />
+        <option value="$PROJECT_DIR$/less/utils/theme.less" />
+        <option value="$PROJECT_DIR$/less/utils/utils.less" />
+        <option value="$PROJECT_DIR$/less/utils/style.less" />
       </list>
     </option>
   </component>
@@ -161,7 +201,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -180,8 +219,22 @@
               <option name="myItemId" value="www.tutorial.com" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
+          </PATH>
+          <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="test.less" />
+              <option name="myItemId" value="tutorial" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="www.tutorial.com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="less" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="variable.less" />
               <option name="myItemType" value="com.intellij.plugins.watcher.projectView.NestingTreeNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -194,9 +247,180 @@
               <option name="myItemId" value="www.tutorial.com" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="less" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tutorial" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="www.tutorial.com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="less" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mixin-nesting.less" />
+              <option name="myItemType" value="com.intellij.plugins.watcher.projectView.NestingTreeNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tutorial" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="www.tutorial.com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="less" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mixin-loop.less" />
+              <option name="myItemType" value="com.intellij.plugins.watcher.projectView.NestingTreeNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tutorial" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="www.tutorial.com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="less" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mixin-condicional.less" />
+              <option name="myItemType" value="com.intellij.plugins.watcher.projectView.NestingTreeNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tutorial" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="www.tutorial.com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="less" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mixin.less" />
+              <option name="myItemType" value="com.intellij.plugins.watcher.projectView.NestingTreeNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tutorial" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="www.tutorial.com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="less" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mixim-param.less" />
+              <option name="myItemType" value="com.intellij.plugins.watcher.projectView.NestingTreeNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tutorial" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="www.tutorial.com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="less" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mixim-overload.less" />
+              <option name="myItemType" value="com.intellij.plugins.watcher.projectView.NestingTreeNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tutorial" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="www.tutorial.com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="less" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="extend.less" />
+              <option name="myItemType" value="com.intellij.plugins.watcher.projectView.NestingTreeNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tutorial" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="www.tutorial.com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="less" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="utils" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tutorial" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="www.tutorial.com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="less" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="utils" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="style.less" />
+              <option name="myItemType" value="com.intellij.plugins.watcher.projectView.NestingTreeNode" />
+            </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -209,14 +433,15 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/less" />
       <recent name="$PROJECT_DIR$/bootstrap" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/less/utils" />
       <recent name="$PROJECT_DIR$/nodejs/express/public/css" />
       <recent name="$PROJECT_DIR$/960gs" />
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/modernizr" />
-      <recent name="$PROJECT_DIR$/css" />
     </key>
   </component>
   <component name="RunManager">
@@ -278,21 +503,21 @@
     <layout>
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.13557541" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32924107" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -303,254 +528,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/bootstrap/nesting.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="30" column="0" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bootstrap/nesting.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-30.0">
-          <caret line="48" column="34" selection-start-line="48" selection-start-column="34" selection-end-line="48" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bootstrap/start.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.17964073">
-          <caret line="10" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="23" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bootstrap/responsive-columns.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="2" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bootstrap/responsive-columns.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-16.25">
-          <caret line="26" column="59" selection-start-line="26" selection-start-column="59" selection-end-line="26" selection-end-column="59" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bootstrap/classic.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="10" column="1" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bootstrap/classic.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-6.470588">
-          <caret line="22" column="20" selection-start-line="22" selection-start-column="20" selection-end-line="22" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bootstrap/image.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.017462166">
-          <caret line="1" column="29" selection-start-line="1" selection-start-column="29" selection-end-line="1" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bootstrap/image.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.46706587">
-          <caret line="23" column="67" selection-start-line="23" selection-start-column="67" selection-end-line="23" selection-end-column="67" />
-          <caret line="24" column="67" selection-start-line="24" selection-start-column="67" selection-end-line="24" selection-end-column="67" />
-          <caret line="25" column="67" selection-start-line="25" selection-start-column="67" selection-end-line="25" selection-end-column="67" />
-          <caret line="26" column="67" selection-start-line="26" selection-start-column="67" selection-end-line="26" selection-end-column="67" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bootstrap/jumbotron.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bootstrap/jumbotron.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-10.0">
-          <caret line="16" column="33" selection-start-line="16" selection-start-column="33" selection-end-line="16" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bootstrap/alert.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.4491018">
-          <caret line="25" column="34" selection-start-line="25" selection-start-column="34" selection-end-line="25" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bootstrap/well.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.07185629">
-          <caret line="4" column="72" selection-start-line="4" selection-start-column="72" selection-end-line="4" selection-end-column="72" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bootstrap/page-header.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.029940119">
-          <caret line="13" column="29" selection-start-line="13" selection-start-column="29" selection-end-line="13" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bootstrap/buttons.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-24.166666">
-          <caret line="54" column="61" selection-start-line="54" selection-start-column="61" selection-end-line="54" selection-end-column="61" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bootstrap/glyphicon.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="3" column="18" selection-start-line="3" selection-start-column="12" selection-end-line="3" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bootstrap/glyphicons.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-6.875">
-          <caret line="11" column="77" selection-start-line="11" selection-start-column="77" selection-end-line="11" selection-end-column="77" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bootstrap/progress-bar.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-23.75">
-          <caret line="38" column="66" selection-start-line="38" selection-start-column="66" selection-end-line="38" selection-end-column="66" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bootstrap/panel.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-20.625">
-          <caret line="33" column="54" selection-start-line="33" selection-start-column="54" selection-end-line="33" selection-end-column="54" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bootstrap/dropdown.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-15.625">
-          <caret line="25" column="10" selection-start-line="13" selection-start-column="4" selection-end-line="25" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bootstrap/form-horizontal.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-16.25">
-          <caret line="26" column="32" selection-start-line="26" selection-start-column="32" selection-end-line="26" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bootstrap/form-inline.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-17.5">
-          <caret line="28" column="0" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bootstrap/labels.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-10.0">
-          <caret line="16" column="65" selection-start-line="16" selection-start-column="65" selection-end-line="16" selection-end-column="65" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bootstrap/navbar.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.7724551">
-          <caret line="43" column="47" selection-start-line="43" selection-start-column="47" selection-end-line="43" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bootstrap/form-vertical.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.75449103">
-          <caret line="46" column="95" selection-start-line="46" selection-start-column="95" selection-end-line="46" selection-end-column="95" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bootstrap/form-input-group.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-16.875">
-          <caret line="27" column="14" selection-start-line="27" selection-start-column="14" selection-end-line="27" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bootstrap/carousel.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.017281106">
-          <caret line="1" column="14" selection-start-line="1" selection-start-column="14" selection-end-line="1" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bootstrap/carousel.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.3957346">
-          <caret line="29" column="36" selection-start-line="29" selection-start-column="36" selection-end-line="29" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bootstrap/modal.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-21.875">
-          <caret line="35" column="7" selection-start-line="35" selection-start-column="7" selection-end-line="35" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bootstrap/tooltip.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-8.125">
-          <caret line="13" column="75" selection-start-line="13" selection-start-column="75" selection-end-line="13" selection-end-column="79" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bootstrap/popover.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-11.25">
-          <caret line="18" column="7" selection-start-line="18" selection-start-column="7" selection-end-line="18" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bootstrap/scrollspy.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="18" column="1" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bootstrap/scrollspy.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.96445495">
-          <caret line="181" column="9" selection-start-line="181" selection-start-column="9" selection-end-line="181" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/nodejs/mymodule.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="4" column="22" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/nodejs/sum.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="2" column="25" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/nodejs/page.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-4.375">
@@ -597,7 +574,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="2" column="1" selection-start-line="2" selection-start-column="1" selection-end-line="2" selection-end-column="1" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -605,7 +581,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-13.75">
           <caret line="22" column="0" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -613,7 +588,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="7" column="34" selection-start-line="7" selection-start-column="34" selection-end-line="7" selection-end-column="34" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -621,7 +595,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-4.375">
           <caret line="7" column="4" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="4" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -629,7 +602,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-9.375">
           <caret line="15" column="7" selection-start-line="15" selection-start-column="7" selection-end-line="15" selection-end-column="7" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -637,7 +609,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="26" column="0" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -645,7 +616,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.46658987">
           <caret line="27" column="9" selection-start-line="27" selection-start-column="9" selection-end-line="27" selection-end-column="9" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -653,15 +623,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="20" selection-end-column="7" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -669,6 +630,294 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.07109005">
           <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.05184332">
+          <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/less/variable.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.05184332">
+          <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/less/variable.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-6.25">
+          <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/less/variable.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.10663507">
+          <caret line="6" column="7" selection-start-line="6" selection-start-column="7" selection-end-line="6" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/less/escope.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.1421801">
+          <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/less/escope.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.05184332">
+          <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/less/escope.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.1421801">
+          <caret line="8" column="16" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/less/interpolation.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.10368664">
+          <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/less/extend.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.39746544">
+          <caret line="23" column="0" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/less/extend.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.37322274">
+          <caret line="21" column="0" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/less/extend.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.40876776">
+          <caret line="23" column="7" selection-start-line="23" selection-start-column="7" selection-end-line="23" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/less/mixin.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.15995261">
+          <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/less/mixin.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.20737328">
+          <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/less/mixin.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.39099526">
+          <caret line="22" column="7" selection-start-line="22" selection-start-column="7" selection-end-line="22" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/less/mixin-nesting.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="66" selection-start-line="0" selection-start-column="66" selection-end-line="0" selection-end-column="66" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/less/mixin-nesting.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.26658767">
+          <caret line="15" column="7" selection-start-line="15" selection-start-column="7" selection-end-line="15" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/less/mixin-nesting.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/less/mixim-param.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.017281106">
+          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/less/mixim-param.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.24881516">
+          <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/less/mixim-param.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="34" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/less/mixim-overload.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.328341">
+          <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/less/mixim-overload.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.1421801">
+          <caret line="8" column="57" selection-start-line="8" selection-start-column="57" selection-end-line="8" selection-end-column="57" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/less/mixin-overload.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="20" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/less/interpolation.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.21327014">
+          <caret line="12" column="7" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/less/mixin-condicional.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.22465438">
+          <caret line="13" column="0" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/less/mixin-condicional.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.49763033">
+          <caret line="28" column="8" selection-start-line="28" selection-start-column="8" selection-end-line="28" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/less/mixin-condicional.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="29" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/less/interpolation.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.26658767">
+          <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/less/mixin-loop.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.4265403">
+          <caret line="24" column="25" selection-start-line="24" selection-start-column="25" selection-end-line="24" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/less/mixin-loop.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.37322274">
+          <caret line="21" column="7" selection-start-line="21" selection-start-column="7" selection-end-line="21" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/less/mixin-loop.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.20737328">
+          <caret line="12" column="16" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/less/utils/normalize.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-83.75">
+          <caret line="134" column="0" selection-start-line="134" selection-start-column="0" selection-end-line="134" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/less/utils/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-6.4135942">
+          <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/less/utils/utils.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-3.75">
+          <caret line="6" column="1" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/less/utils/theme.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-4.375">
+          <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/less/utils/style.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.21327014">
+          <caret line="12" column="1" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
           <folding />
         </state>
       </provider>

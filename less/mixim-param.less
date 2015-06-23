@@ -1,0 +1,14 @@
+.gap(@value){  //parametro obrigatorio
+  margin:@value;
+  padding:@value /2;
+}
+
+.font(@size: 2em){ //quando passa parametro torna-se opcional
+  font-size: @size;
+}
+
+.item{
+  .gap(12px);
+  .font();
+}
+

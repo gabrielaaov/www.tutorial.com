@@ -1,0 +1,14 @@
+//http://www.sitepoint.com/introducing-ccss-component-css/ estudar
+
+.product(){
+  &.dvd{ //o & é pra grudar o .item.dvd senao fica separado
+    color:gold;
+  }
+  &.book{
+    color:#ccc;
+  }
+}
+
+.item{
+  .product();
+}

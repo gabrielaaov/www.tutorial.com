@@ -1,0 +1,6 @@
+div.item {
+  width: 500px;
+  height: 500px;
+  background-color: #cccccc;
+  background-image: url('http://lorempixel.com/500/500/cats');
+}

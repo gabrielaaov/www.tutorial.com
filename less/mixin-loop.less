@@ -1,0 +1,25 @@
+//.getSelector(@index) when (@index > 0){ //enquanto @index >10
+//
+//  .getSelector(@index - 1); //chama ele mesmo e tira 1
+//
+//  .item-@{index}{
+//    background-image: url('http://lorempixel.com/200/200/nature/@{index}');
+//  }
+//}
+//
+//.getSelector(10);
+
+
+
+.getSelector(@index; @width ; @height) when (@index > 0){ //enquanto @index >10
+
+  .getSelector(@index - 1; @width ; @height); //chama ele mesmo e tira 1
+
+  .item-@{index}{
+    width: ~'@{width}px';
+    height: ~'@{height}px';
+    background-image: url('http://lorempixel.com/@{width}/@{height}/nature/@{index}');
+  }
+}
+
+.getSelector(10;600;600);

@@ -1,0 +1,15 @@
+@path: 'http://lorempixel.com';
+@size:500;
+@category:'cats';
+
+@className: item; //pode usar qualquer nome
+
+div.@{className} {
+  width: ~'@{size}px';
+  height: ~'@{size}px';
+  background-color: #cccccc;
+  background-image: url('@{path}/@{size}/@{size}/@{category}');
+}
+
+//tirar as aspas = evaluate
+

@@ -1,0 +1,48 @@
+//number
+
+@number: 1+2+3*4;
+
+@pixel: 2+4px+5;
+
+@cm: 2cm + 4px + 5mm; //o primeiro prevalece neste ex cm
+
+@pt: 2pt + 4px + 5mm; // o primeiro prevaleve neste ex pt
+
+.test-number{
+  content:@number;
+}
+
+.test-pixel{
+  content:@pixel;
+}
+
+.test-cm{
+  content:@cm;
+}
+
+.test-pt{
+  content:@pt;
+}
+
+
+
+//ele chama a funcao de acordo com os parametros passados
+
+.gap(@value){
+  margin: @value;
+  padding: @value/2;
+}
+
+.gap(@margin; @padding){
+  margin: @margin;
+  padding: @padding;
+}
+
+.item-1{
+  .gap(10px);
+}
+
+.item-2{
+  .gap(13px; 8px);
+}
+
